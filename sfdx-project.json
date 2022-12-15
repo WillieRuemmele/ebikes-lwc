@@ -7,5 +7,5 @@
     ],
     "namespace": "",
     "sourceApiVersion": "56.0",
-    "fullProfileRetrieves": true
+    "standardProfileRetrieve": true
 }
